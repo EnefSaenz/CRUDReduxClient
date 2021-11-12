@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Nike Air Force 1",
+      "price": "2200",
+      "id": 6
+    },
+    {
+      "name": "Nike Air Force 1 Blue",
+      "price": "2600",
+      "id": 7
+    },
+    {
+      "name": "Bolsa de mano LV",
+      "price": 4599.99,
+      "id": 8
+    },
+    {
+      "name": "Bolsa de mano DG",
+      "price": "3459.99",
+      "id": 9
+    },
+    {
+      "name": "Adidas Superstar Originals",
+      "price": "1800",
+      "id": 11
+    },
+    {
+      "name": "Nike Air Force 1 Pink",
+      "price": 2500,
+      "id": 12
+    }
+  ]
+}
